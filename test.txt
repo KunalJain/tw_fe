@@ -1,0 +1,1 @@
+Test if get tags are working
