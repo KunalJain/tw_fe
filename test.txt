@@ -2,3 +2,5 @@ Test if get tags are working
 change
 another change
 auto cancel
+
+auto cancel
